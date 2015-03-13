@@ -1,0 +1,1 @@
+Outbreak will use the Secunia PSI API along with antivirus software (probably ClamAV to start with) to analyze how well patches are working to fight viruses. Statistics of interest include number of infe
